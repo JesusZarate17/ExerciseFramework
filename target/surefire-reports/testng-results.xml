@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-08T19:35:21 MST" name="Suite1" finished-at="2023-05-08T19:36:03 MST" duration-ms="41723">
+    <groups>
+    </groups>
+    <test started-at="2023-05-08T19:35:21 MST" name="Context Menu Test" finished-at="2023-05-08T19:35:51 MST" duration-ms="29358">
+      <class name="sonoranearshore.Tests.ContextMenuTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:sonoranearshore.Tests.ContextMenuTest@7219ec67]" started-at="2023-05-08T19:35:21 MST" name="setUp" finished-at="2023-05-08T19:35:41 MST" duration-ms="19925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testContextMenu()[pri:0, instance:sonoranearshore.Tests.ContextMenuTest@7219ec67]" started-at="2023-05-08T19:35:41 MST" name="testContextMenu" finished-at="2023-05-08T19:35:50 MST" duration-ms="8487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testContextMenu -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sonoranearshore.Tests.ContextMenuTest@7219ec67]" started-at="2023-05-08T19:35:50 MST" name="tearDown" finished-at="2023-05-08T19:35:51 MST" duration-ms="859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- sonoranearshore.Tests.ContextMenuTest -->
+    </test> <!-- Context Menu Test -->
+    <test started-at="2023-05-08T19:35:21 MST" name="Disappearing Elements Test" finished-at="2023-05-08T19:35:52 MST" duration-ms="30930">
+      <class name="sonoranearshore.Tests.DisappearingElementsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:sonoranearshore.Tests.DisappearingElementsTest@79efed2d]" started-at="2023-05-08T19:35:21 MST" name="setUp" finished-at="2023-05-08T19:35:41 MST" duration-ms="20225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testDisappearingElements()[pri:0, instance:sonoranearshore.Tests.DisappearingElementsTest@79efed2d]" started-at="2023-05-08T19:35:41 MST" name="testDisappearingElements" finished-at="2023-05-08T19:35:52 MST" duration-ms="10206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDisappearingElements -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sonoranearshore.Tests.DisappearingElementsTest@79efed2d]" started-at="2023-05-08T19:35:52 MST" name="tearDown" finished-at="2023-05-08T19:35:52 MST" duration-ms="432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- sonoranearshore.Tests.DisappearingElementsTest -->
+    </test> <!-- Disappearing Elements Test -->
+    <test started-at="2023-05-08T19:35:21 MST" name="File Upload Test" finished-at="2023-05-08T19:35:53 MST" duration-ms="31426">
+      <class name="sonoranearshore.Tests.FileUploadTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:sonoranearshore.Tests.FileUploadTest@6ce139a4]" started-at="2023-05-08T19:35:21 MST" name="setUp" finished-at="2023-05-08T19:35:41 MST" duration-ms="20123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testFileUpload()[pri:0, instance:sonoranearshore.Tests.FileUploadTest@6ce139a4]" started-at="2023-05-08T19:35:41 MST" name="testFileUpload" finished-at="2023-05-08T19:35:52 MST" duration-ms="10976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFileUpload -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sonoranearshore.Tests.FileUploadTest@6ce139a4]" started-at="2023-05-08T19:35:52 MST" name="tearDown" finished-at="2023-05-08T19:35:53 MST" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- sonoranearshore.Tests.FileUploadTest -->
+    </test> <!-- File Upload Test -->
+    <test started-at="2023-05-08T19:35:21 MST" name="File Download Test" finished-at="2023-05-08T19:35:57 MST" duration-ms="35524">
+      <class name="sonoranearshore.Tests.FileDownloadTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:sonoranearshore.Tests.FileDownloadTest@147ed70f]" started-at="2023-05-08T19:35:21 MST" name="setUp" finished-at="2023-05-08T19:35:47 MST" duration-ms="25604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testFileDownload()[pri:0, instance:sonoranearshore.Tests.FileDownloadTest@147ed70f]" started-at="2023-05-08T19:35:47 MST" name="testFileDownload" finished-at="2023-05-08T19:35:57 MST" duration-ms="9635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFileDownload -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sonoranearshore.Tests.FileDownloadTest@147ed70f]" started-at="2023-05-08T19:35:57 MST" name="tearDown" finished-at="2023-05-08T19:35:57 MST" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- sonoranearshore.Tests.FileDownloadTest -->
+    </test> <!-- File Download Test -->
+    <test started-at="2023-05-08T19:35:21 MST" name="Add Remove Elements Test" finished-at="2023-05-08T19:35:58 MST" duration-ms="36637">
+      <class name="sonoranearshore.Tests.AddRemoveElementsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:sonoranearshore.Tests.AddRemoveElementsTest@f2f2cc1]" started-at="2023-05-08T19:35:21 MST" name="setUp" finished-at="2023-05-08T19:35:41 MST" duration-ms="19562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAddRemoveElements()[pri:0, instance:sonoranearshore.Tests.AddRemoveElementsTest@f2f2cc1]" started-at="2023-05-08T19:35:41 MST" name="testAddRemoveElements" finished-at="2023-05-08T19:35:58 MST" duration-ms="16735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddRemoveElements -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sonoranearshore.Tests.AddRemoveElementsTest@f2f2cc1]" started-at="2023-05-08T19:35:58 MST" name="tearDown" finished-at="2023-05-08T19:35:58 MST" duration-ms="261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- sonoranearshore.Tests.AddRemoveElementsTest -->
+    </test> <!-- Add Remove Elements Test -->
+    <test started-at="2023-05-08T19:35:51 MST" name="JS Alerts Test" finished-at="2023-05-08T19:36:03 MST" duration-ms="11466">
+      <class name="sonoranearshore.Tests.JSAlertsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:sonoranearshore.Tests.JSAlertsTest@7a4ccb53]" started-at="2023-05-08T19:35:52 MST" name="setUp" finished-at="2023-05-08T19:35:59 MST" duration-ms="7597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testJSAlerts()[pri:0, instance:sonoranearshore.Tests.JSAlertsTest@7a4ccb53]" started-at="2023-05-08T19:35:59 MST" name="testJSAlerts" finished-at="2023-05-08T19:36:03 MST" duration-ms="3560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJSAlerts -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sonoranearshore.Tests.JSAlertsTest@7a4ccb53]" started-at="2023-05-08T19:36:03 MST" name="tearDown" finished-at="2023-05-08T19:36:03 MST" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- sonoranearshore.Tests.JSAlertsTest -->
+    </test> <!-- JS Alerts Test -->
+  </suite> <!-- Suite1 -->
+</testng-results>

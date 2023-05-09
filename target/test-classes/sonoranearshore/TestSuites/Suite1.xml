@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite parallel="tests" name="Suite1">
+    
+    <test name="Add Remove Elements Test">
+        <classes>
+            <class name="sonoranearshore.Tests.AddRemoveElementsTest"/>
+        </classes>
+    </test>
+    
+    <test name="Context Menu Test">
+        <classes>
+            <class name="sonoranearshore.Tests.ContextMenuTest"/>
+        </classes>
+    </test>
+    
+    <test name="Disappearing Elements Test">
+        <classes>
+            <class name="sonoranearshore.Tests.DisappearingElementsTest"/>
+        </classes>
+    </test>
+    
+    <test name="File Download Test">
+        <classes>
+            <class name="sonoranearshore.Tests.FileDownloadTest"/>
+        </classes>
+    </test>
+    
+    <test name="File Upload Test">
+        <classes>
+            <class name="sonoranearshore.Tests.FileUploadTest"/>
+        </classes>
+    </test>
+    
+    <test name="JS Alerts Test">
+        <classes>
+            <class name="sonoranearshore.Tests.JSAlertsTest"/>
+        </classes>
+    </test>
+    
+</suite>
